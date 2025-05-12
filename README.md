@@ -25,7 +25,7 @@ A basic Flutter project created for learning and understanding mobile app develo
 Make sure Flutter SDK is installed and configured. Then run:
 
 ```bash
-git clone https://github.com/your-username/go-moon.git
+git clone https://github.com/Flutter-Harsaaa/go-moon.git
 cd go-moon
 flutter pub get
 flutter run
